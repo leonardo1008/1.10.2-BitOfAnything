@@ -1,0 +1,23 @@
+item.platinumIngot.name=Platinum Ingot
+tile.platinumBlock.name=Platinum Block
+item.platinumPickaxe.name=Platinum Pickaxe
+item.platinumHoe.name=Platinum Hoe
+item.platinumAxe.name=Platinum Axe
+item.platinumShovel.name=Platinum Shovel
+item.platinumSword.name=Platinum Sword
+item.healer.name=Healer
+item.soulStealer.name=Soul Stealer
+tile.ingotBox.name=Box of Platinum
+boa.heart.tooltip=Heals the Player
+boa.soulstealer.tooltip=Steals the hearts of entities
+item.dummy.name=Poppet of Bounding
+item.platinumHelmet.name=Platinum Helmet
+item.platinumChestplate.name=Platinum Chestplate
+item.platinumLeggings.name=Platinum Leggings
+item.platinumBoots.name=Platinum Boots
+item.chip.basic.name=Basic Chip
+item.chip.advanced.name=Advanced Chip
+itemGroup.boaAll=Bit Of Anything
+
+achievement.platinumArmor=Man'o'Platinum!
+achievement.platinumArmor.desc=Wear all Platinum Armor
